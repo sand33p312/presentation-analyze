@@ -18,7 +18,7 @@ This is a Python tool that uses the Google Gemini 2.5 Flash model to analyze Pow
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/sand33p312/presentation-analyze.git>
     cd ai-ppt-checker
     ```
 2.  **Install dependencies:**
