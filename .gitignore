@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+/venv/
+
+# Environment variables file - VERY IMPORTANT for security
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE/Editor specific files
+.idea/
+.vscode/
